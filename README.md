@@ -1,6 +1,6 @@
 # NorthStar-Database_Analytics-Coursework
 
-**Student:** Habishalini Linganeshan | **ID:** 34165519
+**Name:** Habishalini Linganeshan (**ID:** 34165519)
 
 **What I Did** : I used Python, SQL, R, and MongoDB programming languages to analyze the data of NorthStar to figure out what was causing their business to perform poorly.
 
