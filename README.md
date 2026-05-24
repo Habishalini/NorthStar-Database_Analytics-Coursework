@@ -10,9 +10,4 @@ The Notebooks
 3. **R** - Created visualizations and hypothesis tests
 4. **MongoDB** - Created a new database design for complex data
 
-**The Tools** : 
-Python
-R
-SQL
-MongoDB
-Google Colab
+**The Tools** : Python, R, SQL, MongoDB, Google Colab
