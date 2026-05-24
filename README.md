@@ -1,6 +1,6 @@
 # NorthStar-Database_Analytics-Coursework
 
-What I Did
+**What I Did**
 I used Python, SQL, R, and MongoDB programming languages to analyze the data of NorthStar to figure out what was causing their business to perform poorly.
 
 **Student:** Habishalini Linganeshan | **ID:** 34165519
@@ -11,7 +11,7 @@ The Notebooks
 3. **R** - Created visualizations and hypothesis tests
 4. **MongoDB** - Created a new database design for complex data
 
-The Tools
+**The Tools**
 Python
 R
 SQL
